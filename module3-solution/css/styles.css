@@ -1,0 +1,33 @@
+#section1 {
+    background-color: #FFFF99;
+}
+#header-nav {
+    background-color: #f6b319;
+    border-radius: 0;
+    border: 0;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: #951C49;
+  text-align: center;
+  font-size: 1.8em;
+}
+#nav-list a:hover {
+  background: #E7E7E7;
+}
+.navbar-brand {
+  font-family: Arial, Helvetica, sans-serif;
+  color: 557c3e;
+  font-size: 2.0em;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+}
+p {
+    padding: 20px;
+    color: #951C49;
+}
+h2 {
+    color: #951C49;
+}
